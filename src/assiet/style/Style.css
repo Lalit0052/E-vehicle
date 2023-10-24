@@ -1,0 +1,20 @@
+.ic{
+    height: 80vh;
+}
+*{
+    overflow-x: hidden;
+}
+.card{
+    width: auto;
+}
+.upc{
+    display: flex;
+    overflow: auto;
+}
+.card-img-top{
+    width: 70vw;
+}
+.card-img-top1{
+    width: 30vw;
+}
+
